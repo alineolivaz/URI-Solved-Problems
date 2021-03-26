@@ -1,5 +1,4 @@
 # URI-Solved-Problems
-Solved problems in C language
 
 This is an open source code compilation for users of URI Online Judge.
 
